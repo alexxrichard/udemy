@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://X:/.idea/U.iml" filepath="X:/.idea/U.iml" />
       <module fileurl="file://$USER_HOME$/Downloads/ods-explorer/ods-explorer/.idea/ods-explorer.iml" filepath="$USER_HOME$/Downloads/ods-explorer/ods-explorer/.idea/ods-explorer.iml" />
+      <module fileurl="file://X:/sonar/.idea/sonar.iml" filepath="X:/sonar/.idea/sonar.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/udemy.iml" filepath="$PROJECT_DIR$/.idea/udemy.iml" />
     </modules>
   </component>
