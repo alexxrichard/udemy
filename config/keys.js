@@ -1,12 +1,8 @@
-
-//keys.js
-
-if( process.env.NODE_ENV === 'production') {
-    // production
+// dev.js don't commit!!!
+if (process.env.NODE_ENV === 'production'){
+    // we are in production - return the prod set of keys
     module.exports = require('./prod');
 } else {
-    //developpement
-
+    // we are in development - return the dev keys!!!
     module.exports = require('./dev');
-
 }
